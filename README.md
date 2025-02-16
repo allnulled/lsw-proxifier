@@ -5,7 +5,7 @@ Class proxifier tool for LSW.
 ## Installation
 
 ```sh
-npm install -s lsw-proxifier
+npm install -s @allnulled/lsw-proxifier
 ```
 
 ## Importation
