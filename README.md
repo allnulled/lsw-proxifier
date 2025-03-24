@@ -24,7 +24,7 @@ In browser:
 
 ## ¿Para qué es?
 
-Sirve para crear proxies de objetos y listas usando clases previamente registradas.
+Sirve para crear proxies de definiciones, objetos y listas usando clases previamente registradas.
 
 ## ¿Qué features tiene?
 
